@@ -12,7 +12,7 @@
 ### [Лекция 4](https://github.com/Inspirate789/BMSTU-MDPL/wiki/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-4)
 Использование стека подпрограммами, прерывания, маскИрование прерываний, срабатывание прерываний, перехват прерываний, новые прерывания, резидентные программы, порты ввода-вывода.
 
-### [Вопросы к РК1](https://github.com/Inspirate789/BMSTU-MDPL/wiki/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BA-%D0%A0%D0%9A1)
+### [Вопросы к РК1](https://github.com/Inspirate789/BMSTU-MDPL/wiki/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BA-%D0%A0%D0%9A1-(IN-PROGRESS))
 
 ### ...
 
