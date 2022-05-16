@@ -21,6 +21,9 @@
 ### [Лекция 6](https://github.com/Inspirate789/BMSTU-MDPL/wiki/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-6)
 FPU, команда CPUID, расширения процессора MMX, SSE и AES.
 
+### [Лекция 7](https://github.com/Inspirate789/BMSTU-MDPL/wiki/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-7)
+Макросы, оконные приложения под x86, реверс-инжиниринг.
+
 ### ...
 
 
