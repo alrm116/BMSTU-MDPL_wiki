@@ -137,11 +137,11 @@ SWI immed_8 (0..255)
 #### **CLR** — исполняющая среда для байт-кода **CIL (MSIL)**, в которой компилируются программы, написанные на .NET-совместимых языках программирования.
 #### **CIL** (Common Intermediate Language) — «высокоуровневый ассемблер» виртуальной машины **.NET**, основанный на работе со стеком.
 ```asm
-ldloc.0 // push local variable 0 onto stack
-ldloc.1 // push local variable 1 onto stack
-add // pop and add the top two stack items then push the result 
- // onto the stack
-stloc.0 // pop and store the top stack item to local variable 0
+ldloc.0    // push local variable 0 onto stack
+ldloc.1    // push local variable 1 onto stack
+add        // pop and add the top two stack items then push the result 
+           // onto the stack
+stloc.0    // pop and store the top stack item to local variable 0
 ```
 **ildasm**, **ilasm** - дизассемблер/ассемблер промежуточного языка (intermediate language)
 
