@@ -30,6 +30,10 @@ RISC-архитектура, ARM, архитектура VLIW, Эльбрус, J
 ### [Рубежный контроль №2](https://github.com/Inspirate789/BMSTU-MDPL/wiki/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BA-%D0%A0%D0%9A2)
 <br>
 
+## [Экзамен](https://www.notion.so/2022-f5bfed56daa54facb85ef8691e2138bc) (special thnx for [@p1xelse](https://github.com/p1xelse) :muscle:)
+<br>
+
+
 
 ## Дополнительная теория из лабораторных работ
 
